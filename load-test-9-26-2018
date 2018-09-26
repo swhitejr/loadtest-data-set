@@ -1,0 +1,564 @@
+{
+  "id": 1,
+  "start": "2018-09-26T15:49:35.288-05:00",
+  "end": "2018-09-26T15:53:23.281-05:00",
+  "data": {
+    "physicalDatabase": false,
+    "gamesComUserIdIndex": {
+      "start": 0,
+      "count": 5360,
+      "first": "0",
+      "last": "5359",
+      "prefix": null
+    },
+    "worldWideOrganizerAccountIdIndex": {
+      "start": 1,
+      "count": 20000,
+      "first": "WWOrgAccountId1",
+      "last": "WWOrgAccountId20000",
+      "prefix": "WWOrgAccountId"
+    },
+    "gamesComOrganizerAccountIdIndex": {
+      "start": 20001,
+      "count": 49,
+      "first": "GCOrgAccountId20001",
+      "last": "GCOrgAccountId20049",
+      "prefix": "GCOrgAccountId"
+    },
+    "worldWideAnyIdentifiersIndex": {
+      "start": 0,
+      "count": 80670,
+      "first": "WWAnyId0",
+      "last": "WWAnyId80669",
+      "prefix": "WWAnyId"
+    },
+    "gamesComAnyIdentifiersIndex": {
+      "start": 0,
+      "count": 770,
+      "first": "GCAnyId0",
+      "last": "GCAnyId769",
+      "prefix": "GCAnyId"
+    },
+    "gamesComMeetupIdLocs": {
+      "7361336": "30.457,-97.738",
+      "7361337": "30.457,-97.736",
+      "7361338": "30.457,-97.734",
+      "7361339": "30.457,-97.732",
+      "7361340": "30.457,-97.73",
+      "7361341": "30.457,-97.728",
+      "7361342": "30.457,-97.726",
+      "7361343": "30.459,-97.738",
+      "7361376": "30.467,-97.728",
+      "7361377": "30.467,-97.726",
+      "7361378": "30.469,-97.738",
+      "7361379": "30.469,-97.736",
+      "7361380": "30.469,-97.734",
+      "7361381": "30.469,-97.732",
+      "7361382": "30.469,-97.73",
+      "7361383": "30.469,-97.728",
+      "7361384": "30.469,-97.726",
+      "7361360": "30.463,-97.732",
+      "7361361": "30.463,-97.73",
+      "7361362": "30.463,-97.728",
+      "7361363": "30.463,-97.726",
+      "7361364": "30.465,-97.738",
+      "7361365": "30.465,-97.736",
+      "7361366": "30.465,-97.734",
+      "7361367": "30.465,-97.732",
+      "7361368": "30.465,-97.73",
+      "7361369": "30.465,-97.728",
+      "7361370": "30.465,-97.726",
+      "7361371": "30.467,-97.738",
+      "7361372": "30.467,-97.736",
+      "7361373": "30.467,-97.734",
+      "7361374": "30.467,-97.732",
+      "7361375": "30.467,-97.73",
+      "7361344": "30.459,-97.736",
+      "7361345": "30.459,-97.734",
+      "7361346": "30.459,-97.732",
+      "7361347": "30.459,-97.73",
+      "7361348": "30.459,-97.728",
+      "7361349": "30.459,-97.726",
+      "7361350": "30.461,-97.738",
+      "7361351": "30.461,-97.736",
+      "7361352": "30.461,-97.734",
+      "7361353": "30.461,-97.732",
+      "7361354": "30.461,-97.73",
+      "7361355": "30.461,-97.728",
+      "7361356": "30.461,-97.726",
+      "7361357": "30.463,-97.738",
+      "7361358": "30.463,-97.736",
+      "7361359": "30.463,-97.734"
+    },
+    "gamesComMeetupId": 7361360,
+    "gamesComMeetupIds": [
+      7361336,
+      7361337,
+      7361338,
+      7361339,
+      7361340,
+      7361341,
+      7361342,
+      7361343,
+      7361344,
+      7361345,
+      7361346,
+      7361347,
+      7361348,
+      7361349,
+      7361350,
+      7361351,
+      7361352,
+      7361353,
+      7361354,
+      7361355,
+      7361356,
+      7361357,
+      7361358,
+      7361359,
+      7361360,
+      7361361,
+      7361362,
+      7361363,
+      7361364,
+      7361365,
+      7361366,
+      7361367,
+      7361368,
+      7361369,
+      7361370,
+      7361371,
+      7361372,
+      7361373,
+      7361374,
+      7361375,
+      7361376,
+      7361377,
+      7361378,
+      7361379,
+      7361380,
+      7361381,
+      7361382,
+      7361383,
+      7361384
+    ]
+  },
+  "performanceData": {
+    "physicalDatabase": false,
+    "gamesComMeetupCount": 49,
+    "gamesComParticipantCount": 2000,
+    "gamesComLocalParticipantCount": 70,
+    "gamesComIdentifiersCount": 50,
+    "gamesComLocalIdentifiersCount": 20,
+    "worldWideMeetupCount": 20000,
+    "worldWideParticipantCount": 10,
+    "worldWideIdentifiersCount": 10,
+    "timeLogs": [
+      "Finished Saving 20000 WorldWide Organizers at: 2018-09-26T15:49:38.719-05:00[America/Chicago] after 3.429S",
+      "Finished Saving 49 GamesCom Organizers at: 2018-09-26T15:49:38.764-05:00[America/Chicago] after 0.016S",
+      "Finished Saving 20000 WorldWide Meetups at: 2018-09-26T15:51:31.34-05:00[America/Chicago] after 1M52.55S",
+      "Finished Saving 49 GamesCom Meetups at: 2018-09-26T15:51:31.659-05:00[America/Chicago] after 0.214S",
+      "Finished Finalizing GamesCom Meetups with 1010 AnyIdentifiers at: 2018-09-26T15:51:32.616-05:00[America/Chicago] after 0.945S",
+      "Finished Checking in 5360 total players to all GamesCom Meetups (Participants). Memory: 10.45% at: 2018-09-26T15:51:35.563-05:00[America/Chicago] after 2.947S",
+      "Finished Checking in 161340 players to WorldWide Meetups (Participants). Memory: 20.43% at: 2018-09-26T15:53:20.523-05:00[America/Chicago] after 1M44.849S",
+      "Finished populateData at: 2018-09-26T15:53:23.281-05:00[America/Chicago] after 3M47.992S"
+    ]
+  },
+  "loaderIoPayload": {
+    "version": 1,
+    "variables": [
+      {
+        "names": [
+          "gamesComMeetupIdLocs",
+          "lat",
+          "lng"
+        ],
+        "values": [
+          [
+            "7361336",
+            "30.457",
+            "-97.738"
+          ],
+          [
+            "7361337",
+            "30.457",
+            "-97.736"
+          ],
+          [
+            "7361338",
+            "30.457",
+            "-97.734"
+          ],
+          [
+            "7361339",
+            "30.457",
+            "-97.732"
+          ],
+          [
+            "7361340",
+            "30.457",
+            "-97.73"
+          ],
+          [
+            "7361341",
+            "30.457",
+            "-97.728"
+          ],
+          [
+            "7361342",
+            "30.457",
+            "-97.726"
+          ],
+          [
+            "7361343",
+            "30.459",
+            "-97.738"
+          ],
+          [
+            "7361376",
+            "30.467",
+            "-97.728"
+          ],
+          [
+            "7361377",
+            "30.467",
+            "-97.726"
+          ],
+          [
+            "7361378",
+            "30.469",
+            "-97.738"
+          ],
+          [
+            "7361379",
+            "30.469",
+            "-97.736"
+          ],
+          [
+            "7361380",
+            "30.469",
+            "-97.734"
+          ],
+          [
+            "7361381",
+            "30.469",
+            "-97.732"
+          ],
+          [
+            "7361382",
+            "30.469",
+            "-97.73"
+          ],
+          [
+            "7361383",
+            "30.469",
+            "-97.728"
+          ],
+          [
+            "7361384",
+            "30.469",
+            "-97.726"
+          ],
+          [
+            "7361360",
+            "30.463",
+            "-97.732"
+          ],
+          [
+            "7361361",
+            "30.463",
+            "-97.73"
+          ],
+          [
+            "7361362",
+            "30.463",
+            "-97.728"
+          ],
+          [
+            "7361363",
+            "30.463",
+            "-97.726"
+          ],
+          [
+            "7361364",
+            "30.465",
+            "-97.738"
+          ],
+          [
+            "7361365",
+            "30.465",
+            "-97.736"
+          ],
+          [
+            "7361366",
+            "30.465",
+            "-97.734"
+          ],
+          [
+            "7361367",
+            "30.465",
+            "-97.732"
+          ],
+          [
+            "7361368",
+            "30.465",
+            "-97.73"
+          ],
+          [
+            "7361369",
+            "30.465",
+            "-97.728"
+          ],
+          [
+            "7361370",
+            "30.465",
+            "-97.726"
+          ],
+          [
+            "7361371",
+            "30.467",
+            "-97.738"
+          ],
+          [
+            "7361372",
+            "30.467",
+            "-97.736"
+          ],
+          [
+            "7361373",
+            "30.467",
+            "-97.734"
+          ],
+          [
+            "7361374",
+            "30.467",
+            "-97.732"
+          ],
+          [
+            "7361375",
+            "30.467",
+            "-97.73"
+          ],
+          [
+            "7361344",
+            "30.459",
+            "-97.736"
+          ],
+          [
+            "7361345",
+            "30.459",
+            "-97.734"
+          ],
+          [
+            "7361346",
+            "30.459",
+            "-97.732"
+          ],
+          [
+            "7361347",
+            "30.459",
+            "-97.73"
+          ],
+          [
+            "7361348",
+            "30.459",
+            "-97.728"
+          ],
+          [
+            "7361349",
+            "30.459",
+            "-97.726"
+          ],
+          [
+            "7361350",
+            "30.461",
+            "-97.738"
+          ],
+          [
+            "7361351",
+            "30.461",
+            "-97.736"
+          ],
+          [
+            "7361352",
+            "30.461",
+            "-97.734"
+          ],
+          [
+            "7361353",
+            "30.461",
+            "-97.732"
+          ],
+          [
+            "7361354",
+            "30.461",
+            "-97.73"
+          ],
+          [
+            "7361355",
+            "30.461",
+            "-97.728"
+          ],
+          [
+            "7361356",
+            "30.461",
+            "-97.726"
+          ],
+          [
+            "7361357",
+            "30.463",
+            "-97.738"
+          ],
+          [
+            "7361358",
+            "30.463",
+            "-97.736"
+          ],
+          [
+            "7361359",
+            "30.463",
+            "-97.734"
+          ]
+        ]
+      },
+      {
+        "names": [
+          "gamesComMeetupId"
+        ],
+        "values": [
+          [
+            "7361360"
+          ]
+        ]
+      },
+      {
+        "names": [
+          "gamesComAnyIdentifiersStart0",
+          "gamesComAnyIdentifiersStart1",
+          "gamesComAnyIdentifiersStart2",
+          "gamesComAnyIdentifiersStart3",
+          "gamesComAnyIdentifiersStart4",
+          "gamesComAnyIdentifiersStart5",
+          "gamesComAnyIdentifiersStart6",
+          "gamesComAnyIdentifiersStart7",
+          "gamesComAnyIdentifiersStart8",
+          "gamesComAnyIdentifiersStart9",
+          "gamesComAnyIdentifiersStart10",
+          "gamesComAnyIdentifiersStart11",
+          "gamesComAnyIdentifiersStart12",
+          "gamesComAnyIdentifiersStart13",
+          "gamesComAnyIdentifiersStart14",
+          "gamesComAnyIdentifiersStart15",
+          "gamesComAnyIdentifiersStart16",
+          "gamesComAnyIdentifiersStart17",
+          "gamesComAnyIdentifiersStart18",
+          "gamesComAnyIdentifiersStart19",
+          "gamesComAnyIdentifiersEnd",
+          "gamesComAnyIdentifiersPrefix",
+          "gamesComAnyIdentifiersValue"
+        ],
+        "values": [
+          [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "769",
+            "GCAnyId",
+            "constantAnyIdentifierValue"
+          ]
+        ]
+      },
+      {
+        "names": [
+          "gamesComUserIdStart",
+          "gamesComUserIdEnd",
+          "gamesComUserIdType"
+        ],
+        "values": [
+          [
+            "0",
+            "10719",
+            "staticUserIdType"
+          ]
+        ]
+      },
+      {
+        "names": [
+          "gamesComOrganizerAccountIdStart",
+          "gamesComOrganizerAccountIdEnd",
+          "gamesComOrganizerAccountIdPrefix"
+        ],
+        "values": [
+          [
+            "20001",
+            "20490",
+            "GCOrgAccountId"
+          ]
+        ]
+      },
+      {
+        "names": [
+          "worldWideAnyIdentifiersStart",
+          "worldWideAnyIdentifiersEnd",
+          "worldWideAnyIdentifiersPrefix",
+          "worldWideAnyIdentifiersValue"
+        ],
+        "values": [
+          [
+            "0",
+            "806699",
+            "WWAnyId",
+            "constantAnyIdentifierValue"
+          ]
+        ]
+      },
+      {
+        "names": [
+          "worldWideOrganizerAccountIdStart",
+          "worldWideOrganizerAccountIdEnd",
+          "worldWideOrganizerAccountIdPrefix"
+        ],
+        "values": [
+          [
+            "1",
+            "400000",
+            "WWOrgAccountId"
+          ]
+        ]
+      },
+      {
+        "names": [
+          "minutesBeforeVal",
+          "minutesAfterVal",
+          "gamesComDistanceLimitMetersVal",
+          "worldWideDistanceLimitMetersVal"
+        ],
+        "values": [
+          [
+            "30",
+            "1440",
+            "100",
+            "100000"
+          ]
+        ]
+      }
+    ]
+  }
+}
